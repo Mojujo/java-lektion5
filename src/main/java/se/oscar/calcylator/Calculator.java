@@ -1,6 +1,6 @@
 package se.oscar.calcylator;
 
-public class Operator {
+public class Calculator {
     public int calculatorAdd (int a, int b) {
         return a + b;
     }
